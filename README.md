@@ -53,3 +53,5 @@ Integration of AI or machine learning models for more advanced text summarizatio
 Support for multiple languages and text formats (PDF, Word).
 
 A backend service to allow users to save or export their summaries
+## OUTPUT ##
+![Image](https://github.com/user-attachments/assets/23ce1913-bc82-4647-82fa-4b5aa5ab528e)
