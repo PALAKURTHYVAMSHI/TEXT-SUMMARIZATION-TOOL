@@ -55,3 +55,4 @@ Support for multiple languages and text formats (PDF, Word).
 A backend service to allow users to save or export their summaries
 ## OUTPUT ##
 ![Image](https://github.com/user-attachments/assets/c01f8873-d1e3-4c77-8779-ab51a64bbe70)
+1763566461971.jpg
